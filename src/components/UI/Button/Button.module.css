@@ -1,0 +1,16 @@
+.Button {
+    text-align: center;
+    padding: 15px;
+}
+
+.Text {
+    padding: 10px;
+    display: inline;
+}
+
+.PlusBtn {
+    border-radius: 50%;
+ 
+    color: #000;
+    font-weight: bold;
+}

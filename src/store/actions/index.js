@@ -1,0 +1,1 @@
+export { changeInputModal } from './addToTaskList';

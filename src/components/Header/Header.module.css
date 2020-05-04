@@ -1,0 +1,15 @@
+.Header {
+    text-align: center;
+    font-size: 1.7em;
+    border-bottom: 3px solid #000;
+    margin-bottom: 50px;
+    padding: 20px;
+    vertical-align: bottom;
+    text-shadow: 1px 1px;
+}
+
+.Icon {
+    padding-right: 10px;
+    font-size: 1.2em;
+    vertical-align: middle;
+}

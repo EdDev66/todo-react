@@ -1,0 +1,9 @@
+export const CHANGE_INPUT = 'CHANGE_INPUT';
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const MODAL_STATE = 'MODAL_STATE';
+export const CHANGE_INPUT_MODAL = 'CHANGE_INPUT_MODAL';
+export const SUBMIT_TASK = 'SUBMIT_TASK';
+export const DELETE_TASK = 'DELETE_TASK';
+export const CHECK_TASK = 'CHECK_TASK';
+export const CHANGE_PRIORITY = 'CHANGE_PRIORITY';
+export const CLICK_PROJECT = 'CLICK_PROJECT';

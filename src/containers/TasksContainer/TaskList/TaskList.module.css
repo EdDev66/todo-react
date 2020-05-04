@@ -1,0 +1,14 @@
+.SingleProject {
+    cursor: pointer;
+    color: #F2F3F4;
+    width: 70%;
+    background-color: #5bc0de;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px auto;
+}
+
+.SingleProject:hover {
+    background-color: #5BAADE;
+    transition: 0.2s;
+}
